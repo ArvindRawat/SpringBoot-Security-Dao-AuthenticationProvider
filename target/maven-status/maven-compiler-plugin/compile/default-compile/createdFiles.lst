@@ -1,0 +1,12 @@
+com\app\WebSecurityConfig.class
+com\app\entity\UserRole.class
+com\app\dao\impl\UserRoleDaoImpl.class
+com\app\MvcConfig.class
+com\app\security\model\CustomUserDetail.class
+com\app\controller\LoginController.class
+com\app\dao\UserRoleDao.class
+com\app\Application.class
+com\app\entity\User.class
+com\app\security\service\CustomUserDetailsService.class
+com\app\dao\impl\UserDaoImpl.class
+com\app\dao\UserDao.class
